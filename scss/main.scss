@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+$bg_Color: #2c3e50;
+$bg_primary: #7ed6df;
+
+body{
+  background-color: $bg_primary;
+}
+
+
+
+@import url("../node_modules/bootstrap/scss/bootstrap.scss");
